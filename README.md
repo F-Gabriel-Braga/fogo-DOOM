@@ -2,7 +2,7 @@
 
 ## Descrição
 O **Fire Dooom** é um "efeito de fogo" que foi originalmente criado no jogo eletrônico **DOOM**.
-Existe um algoritmo capaz de reecriar esse efeito de fogo e o youtuber [Filipe Deschamps](https://github.com/filipedeschamps) mostra como cria-lo passo a passo no video
+Existe um algoritmo capaz de recriar esse efeito de fogo e o youtuber [Filipe Deschamps](https://github.com/filipedeschamps) mostra como cria-lo passo a passo no video
 [Tutorial completo de como programar o Fogo do DOOM (JavaScript puro)](https://www.youtube.com/watch?v=fxm8cadCqbs).
 Eu, [Gabriel Braga](https://github.com/F-Gabriel-Braga), criei esse algoritmo e disponho ele neste repositório.
 Você pode visualizar o projeto clicando [AQUI](https://f-gabriel-braga.github.io/fogo-DOOM/).
